@@ -1,2 +1,2 @@
-# mlops-practice
-MLOPS pipeline practice
+# MLOps-practice
+MLOps pipeline practice
