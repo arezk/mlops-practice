@@ -3,6 +3,29 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Data / artifacts
+*.parquet
+*.csv
+*.zip
+*.pkl
+*.joblib
+
+# Conda / Anaconda stuff (don’t commit envs or installers)
+Anaconda3-*.sh
+Miniconda3-*.sh
+conda/
+.conda/
+env/
+venv/
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+
 # C extensions
 *.so
 
